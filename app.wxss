@@ -1,0 +1,7 @@
+page{
+  min-height: 100%;
+  background-image: url('http://wx4.sinaimg.cn/large/67b2eab9ly1fm6xttlbjpj20dw0dwmyv.jpg');
+  background-image: src;
+  background-size: 1366rpx 1268rpx;
+  background-position: center;
+}

@@ -1,0 +1,42 @@
+<input class="page-section" placeholder='请输入'></input>
+
+<view class="section">
+  <view class="flex-wrp" style="flex-direction:row">
+       <button class="flex-item temd bindtap='click'">AC</button>
+    <button class="flex-item temd">-</button>
+    <button class="flex-item bc_yellow">%</button>
+    <button class="flex-item bc_yellow">/</button>
+  </view>
+</view>
+<view class="section">
+  <view class="flex-wrp" style="flex-direction:row;">
+    <button class="flex-item bc_green">1</button>
+    <button class="flex-item bc_red">2</button>
+    <button class="flex-item bc_blue">3</button>
+     <button class="flex-item bc_yellow">*</button>
+  </view>
+</view>
+<view class="section">
+  <view class="flex-wrp" style="flex-direction:row">
+       <button class="flex-item bc_green">4</button>
+    <button class="flex-item bc_red">5</button>
+    <button class="flex-item bc_blue">6</button>
+     <button class="flex-item bc_yellow">-</button>
+  </view>
+</view>
+<view class="section">
+  <view class="flex-wrp" style="flex-direction:row">
+       <button class="flex-item bc_green">7</button>
+    <button class="flex-item bc_red">8</button>
+    <button class="flex-item bc_blue">9</button>
+     <button class="flex-item bc_yellow">+</button>
+  </view>
+</view>
+<view class="section">
+  <view class="flex-wrp" style="flex-direction:row">
+       <button class="flex-item bc_green">0</button>
+    <button class="flex-item bc_red">0</button>
+    <button class="flex-item bc_blue">.</button>
+     <button class="flex-item bc_yellow">==</button>
+  </view>
+</view>

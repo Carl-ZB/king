@@ -1,0 +1,62 @@
+@import "../lib/weui.wxss";
+
+.page-section{
+  width:100px; 
+  height: 70px;
+  font-size: 200%;
+}
+.flex-wrp {
+  display: flex;
+  }
+  .temd {
+  background: #FFA500;
+  width:100px; 
+  height: 70px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 200%;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border:2px solid rgb(207, 17, 17);
+  }
+.bc_green {
+  background: rgb(223, 206, 53);
+  width:100px; 
+  height: 70px;
+  font-size: 200%;
+  line-height: 70px;
+  text-align: center;
+  margin-bottom: 10px;
+  border:2px solid rgb(207, 17, 17);
+  }
+.bc_red {
+  background: rgb(182, 64, 147);
+  width:100px; 
+  height: 70px;
+  font-size: 200%;
+  line-height: 70px;
+  margin-left: 20rpx;
+  margin-bottom: 20rpx;
+  border:2px solid rgb(207, 17, 17);
+  }
+.bc_blue {
+  background: rgb(70, 70, 156);
+  width:100px; 
+  height: 70px;
+  font-size: 200%;
+  line-height: 70px;
+  margin-left: 20rpx;
+  border:2px solid rgb(207, 17, 17);
+  }
+  .bc_yellow {
+  background: #FFA500;
+  width:100px; 
+  height: 70px;
+  font-size: 200%;
+  line-height: 70px;
+  margin-left: 20rpx;
+  font: 900px;
+  border:2px solid rgb(207, 17, 17);
+  }
+
+  
